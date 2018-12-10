@@ -1,0 +1,4 @@
+#ifndef SE_RENDERER_GUI_H
+#define SE_RENDERER_GUI_H
+
+#endif // !SE_RENDERER_GUI_H
